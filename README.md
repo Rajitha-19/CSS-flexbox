@@ -5,3 +5,7 @@
 
 # CSS transitions
 https://thoughtbot.com/blog/transitions-and-transforms
+
+
+
+https://hodgef.com/simple-keyboard/documentation/options/
